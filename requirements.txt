@@ -25,3 +25,5 @@ youtube-search
 youtube-search-python
 telegraph
 pytz
+typing
+soundcloud
